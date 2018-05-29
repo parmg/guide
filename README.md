@@ -1,2 +1,3 @@
-# guide
-A collection of helpful guides
+# مستندات مفيدة للمجموعات
+
+* [دليل إجرائات برمج](parmg-handbook.md)
